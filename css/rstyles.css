@@ -1,0 +1,35 @@
+body{
+font-family: 'Architects Daughter', cursive;
+color: white;
+background-image: url(../images/usaboston.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+
+
+#right{
+	float: right;
+}
+
+#left{
+	float: left;
+}
+
+
+#picWindow{
+
+	width: 66%;
+	float: right;
+	padding: 1%;
+
+}
+#imageBox{
+text-align: center;
+margin-right: auto;
+margin-left: auto;
+width: 50%;
+}
+
+
